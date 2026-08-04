@@ -1,0 +1,4 @@
+numpy>=1.22
+pytest>=7.0
+pillow>=10.0
+# cupy is optional; install a build matching your CUDA toolkit, e.g. cupy-cuda12x
